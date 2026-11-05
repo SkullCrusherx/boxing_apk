@@ -1,0 +1,6 @@
+{
+  "name": "Boxing Timer",
+  "description": "Interval boxing round timer with customizable bell sounds, 10-second warning, 3-minute rounds, rest intervals, and dark mode.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
